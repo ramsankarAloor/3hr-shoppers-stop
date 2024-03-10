@@ -1,0 +1,23 @@
+.flex {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+.w20 {
+  width: 20%;
+  margin: 0 1rem;
+}
+.for-card {
+  margin: 1rem;
+  padding: 1rem;
+}
+.input {
+  width: 30%; /* Adjust the width as needed */
+  margin-right: 5px;
+}
+.button-div {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
